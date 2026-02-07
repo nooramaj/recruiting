@@ -1,1 +1,1 @@
-you can run it on netfily
+you can run it on netlify
